@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Action Hero",
+    "description": "Un héros intrépide se lance dans une mission périlleuse pour sauver le monde d'une menace apocalyptique. Entre explosions spectaculaires et combats épiques, découvrez l'action à l'état pur.",
+    "image": "/images/action1.jpg",
+    "video": "/videos/action1.mp4",
+    "genre": "Action",
+    "year": 2023,
+    "rating": "16+",
+    "duration": "2h 15min"
+  },
+  {
+    "id": 2,
+    "title": "Amour Éternel",
+    "description": "Une histoire d'amour touchante qui traverse les époques. Deux âmes sœurs se retrouvent dans différentes vies, prouvant que l'amour véritable transcende le temps et l'espace.",
+    "image": "/images/romance1.jpg",
+    "video": "/videos/romance1.mp4",
+    "genre": "Romance",
+    "year": 2023,
+    "rating": "Tout public",
+    "duration": "1h 45min"
+  },
+  {
+    "id": 3,
+    "title": "Mystères de Minuit",
+    "description": "Un thriller psychologique captivant où rien n'est ce qu'il semble. Plongez dans un labyrinthe de secrets, de mensonges et de révélations qui vous tiendront en haleine jusqu'à la dernière minute.",
+    "image": "/images/thriller1.jpg",
+    "video": "/videos/thriller1.mp4",
+    "genre": "Thriller",
+    "year": 2023,
+    "rating": "16+",
+    "duration": "2h 05min"
+  },
+  {
+    "id": 4,
+    "title": "Rires et Compagnie",
+    "description": "Une comédie hilarante qui vous fera pleurer de rire. Suivez les aventures rocambolesques d'un groupe d'amis dans des situations complètement loufoques.",
+    "image": "/images/comedy1.jpg",
+    "video": "/videos/comedy1.mp4",
+    "genre": "Comédie",
+    "year": 2023,
+    "rating": "Tout public",
+    "duration": "1h 35min"
+  },
+  {
+    "id": 5,
+    "title": "Galaxie Infinie",
+    "description": "Une épopée de science-fiction spectaculaire qui vous emmène aux confins de l'univers. Explorez des mondes inconnus et découvrez des civilisations extraterrestres fascinantes.",
+    "image": "/images/scifi1.jpg",
+    "video": "/videos/scifi1.mp4",
+    "genre": "Science-Fiction",
+    "year": 2023,
+    "rating": "12+",
+    "duration": "2h 30min"
+  },
+  {
+    "id": 6,
+    "title": "Terreur Nocturne",
+    "description": "Un film d'horreur glaçant qui vous hantera longtemps après le générique. Préparez-vous à vivre l'angoisse à l'état pur dans cette expérience cinématographique terrifiante.",
+    "image": "/images/horror1.jpg",
+    "video": "/videos/horror1.mp4",
+    "genre": "Horreur",
+    "year": 2023,
+    "rating": "18+",
+    "duration": "1h 55min"
+  }
+]

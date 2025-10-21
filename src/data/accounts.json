@@ -1,0 +1,7 @@
+[
+  { "numero": "1234567890", "password": "pass123", "bank": "Orange Money" },
+  { "numero": "9876543210", "password": "netflix2025", "bank": "Visa" },
+  { "numero": "1111222233", "password": "secure789", "bank": "Orange Money" },
+  { "numero": "5555666677", "password": "mypass456", "bank": "Visa" },
+  { "numero": "9999888877", "password": "cinema2025", "bank": "Orange Money" }
+]

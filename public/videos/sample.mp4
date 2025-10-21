@@ -1,0 +1,16 @@
+# Sample Video File
+
+This is a placeholder for video files. In a real Netflix clone, this would contain actual MP4 video files.
+
+To add videos:
+1. Place your .mp4 files in this directory
+2. Update the movie data in src/data/movies.json to reference the correct video paths
+3. Ensure video files are named consistently (e.g., action1.mp4, romance1.mp4, etc.)
+
+Example structure:
+- /public/videos/action1.mp4
+- /public/videos/romance1.mp4
+- /public/videos/thriller1.mp4
+- /public/videos/comedy1.mp4
+- /public/videos/scifi1.mp4
+- /public/videos/horror1.mp4
