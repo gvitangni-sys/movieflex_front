@@ -1,21 +1,29 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Netflix Clone</title>
-    <meta name="description" content="Clone Netflix - Regardez vos films et séries préférés" />
+    <title>Movieflix</title>
+    <meta
+      name="description"
+      content="Clone Netflix - Regardez vos films et séries préférés"
+    />
 
     <!-- Favicon Netflix -->
-    <link rel="icon" type="image/x-icon" href="/netflix.png">
-    <link rel="apple-touch-icon" href="/netflix.png">
+    <link rel="icon" type="image/x-icon" href="/netflix.png" />
+    <link rel="apple-touch-icon" href="/netflix.png" />
 
     <meta property="og:title" content="Netflix Clone" />
-    <meta property="og:description" content="Clone Netflix - Regardez vos films et séries préférés" />
+    <meta
+      property="og:description"
+      content="Clone Netflix - Regardez vos films et séries préférés"
+    />
     <meta property="og:type" content="website" />
-    
+
     <!-- Content Security Policy pour Stripe et production -->
-    <meta http-equiv="Content-Security-Policy" content="
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="
       default-src 'self' https://js.stripe.com https://m.stripe.network;
       script-src 'self' https://js.stripe.com https://m.stripe.network 'unsafe-inline' 'unsafe-eval' blob:;
       script-src-elem 'self' https://js.stripe.com https://m.stripe.network blob:;
@@ -29,7 +37,8 @@
       object-src 'none';
       base-uri 'self';
       child-src 'self' https://js.stripe.com https://m.stripe.network blob:;
-    " />
+    "
+    />
   </head>
 
   <body>
